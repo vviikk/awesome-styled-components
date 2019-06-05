@@ -216,6 +216,7 @@
 * [The Future of Reusable CSS](https://www.youtube.com/watch?v=XR6eM_5pAb0)
 * ["Scale" FUD and Style Components](https://medium.com/learnreact/scale-fud-and-style-components-c0ce87ec9772#.kzjba8lcg)
 * [The magic behind 💅 styled-components](http://mxstbr.blog/2016/11/styled-components-magic-explained/)
+* [The state of CSS, CSS in JS & how styled-components is solving the problems we’ve had for decades](https://medium.com/@piggyslasher/the-state-of-css-css-in-js-how-styled-components-is-solving-the-problems-weve-had-for-decades-d8abbc8bc148)
 
 #### Video from Confs
 * [The road to styled components, and the road ahead - Glen Maddern, Front End Center](https://www.youtube.com/watch?v=PvM2WijDxxI)
